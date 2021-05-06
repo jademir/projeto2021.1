@@ -1,0 +1,1 @@
+document.write('<h1>Título da página</h1>')
